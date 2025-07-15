@@ -10,7 +10,6 @@ A simple emergency web app that sends an SOS alert with your location and visual
 
 ## 🛠️ Tech Stack
 - HTML, CSS, JavaScript (Vanilla)
-- No backend needed (fully client-side)
 
 ## 🔗 APIs Used
 1. [Geolocation API](https://developer.mozilla.org/en-US/docs/Web/API/Geolocation_API)
@@ -22,9 +21,3 @@ A simple emergency web app that sends an SOS alert with your location and visual
 2. Open `index.html` in a browser.
 3. Click **SOS** to test location and alert system.
 
-## 📸 Screenshots
-(Add screenshots or screen recordings here if required)
-
----
-
-Made with ❤️ for TAP Frontend Developer Assignment.
